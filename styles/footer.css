@@ -1,0 +1,67 @@
+
+
+
+#social a {
+        text-decoration:none;
+        padding: 3px;
+        background: none;
+        border:0px;
+}
+#social {
+        padding-left:30px;
+}
+
+
+
+
+
+#quote{
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 30px;
+        }
+#websiteby {
+        color:grey;
+        font-size: 10px;
+        text-align: right;
+        padding-right: 20px;
+        padding-top: 15px;
+}
+#bottom {
+        padding-bottom: 100px;
+}
+
+
+
+
+section {
+
+        clear: left;
+        padding-left:20px;
+        padding-right:20px;
+}
+section h1 {
+        color: #800000;
+        font-size: 150%;
+        padding-top:.5em;
+        padding-bottom:.75em;
+}
+
+
+section p{
+
+        padding-bottom:.5em;
+}
+
+
+
+/* the styles for the footer */
+footer {
+        background-position: 10% 0%;
+        background-image:url("../images/footer.png");
+        padding: 1em 0;
+        text-align: center;
+        border-top: auto;
+        clear: both;
+}

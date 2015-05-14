@@ -1,0 +1,99 @@
+/* the styles for the header */
+header h1 {
+        color: #545e3c;
+
+
+}
+ header h2 {
+        font-style: italic;
+
+}
+header img {
+        float: left;
+        padding:0 20px;
+}
+
+
+#col1 {
+        float: left;
+        width: 30%;
+}
+#col2 {
+        float: left;
+        width: 40%;
+}
+#col3 {
+        float: left;
+        width: 30%;
+}
+#col4 {
+        float: left;
+        width: 40%;
+}
+
+/* the styles for the section */
+.first{
+        background-image:url("../images/content-top.jpg");
+        background-repeat: no-repeat;
+}
+
+.middle{
+        background-image:url("../images/content.jpg");
+        background-repeat: repeat-y;
+
+}
+
+.bottom{
+        background-image:url("../images/content-bottom.jpg");
+        background-repeat:  no-repeat;
+
+}
+.footer{
+        background-image:url("../images/footer.png");
+        background-repeat: repeat;
+
+
+}
+
+#top {
+        padding-bottom: 100px;
+}
+#quote{
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 30px;
+        }
+#websiteby {
+        color:grey;
+        font-size: 10px;
+        text-align: right;
+        padding-right: 20px;
+        padding-top: 0px;
+}
+#bottom {
+        float: none;
+        padding-bottom: 0px;
+        padding-top:20px;
+}
+
+
+
+section {
+
+        clear: left;
+        padding-left:20px;
+        padding-right:20px;
+}
+
+
+
+/* the styles for the footer */
+footer {
+        background-position: 10% 0%;
+        background-image:url("../images/footer.png");
+        padding: 1em 0;
+        text-align: center;
+        border-top: auto;
+        clear: both;
+}
